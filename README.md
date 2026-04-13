@@ -7,8 +7,8 @@
 
 ```swift
 struct Developer {
-    let name = "JaeHoon"
-    let role = "iOS Developer"
+    let name = "HwanHun, Norton"
+    let role = "iOS Developer & PM"
     let academy = "Apple Developer Academy @ POSTECH"
 }
 ```
