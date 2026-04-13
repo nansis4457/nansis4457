@@ -1,7 +1,6 @@
-## Hi there 👋
 
 <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Hi~! This is My World  </h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Hi~! This is My World 😁 </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> AI UX Researcher, Norton. </div> 
     </div>
     <div align= "center">
