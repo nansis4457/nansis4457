@@ -1,5 +1,5 @@
 ## Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Norton&fontSize=70&color=0079FF)
+![header](https://capsule-render.vercel.app/api?type=speech&height=200&text=Hi%20I'm%20Norton&fontSize=50&color=0079FF)
 
 <!--
 **nansis4457/nansis4457** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
