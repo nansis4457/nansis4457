@@ -1,8 +1,8 @@
 
 
-<div id="header" align="center">
+<div id="header" align="left">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXFmdTNyM21ubnF2MmMwcndlcm55ZHAwN3hqN2w5Z2F5cTFpcmJ3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qt73FYHjuXqAj241m8/giphy.gif" width="300"/>
-<div align="center">
+
 ## 🍎 About Me
 
 ```swift
@@ -11,8 +11,7 @@ struct Developer {
     let role = "iOS Developer & PM"
     let academy = "Apple Developer Academy @ POSTECH"
 }
-```
-</div>    
+``` 
 </div>
 <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Hi~! This is My World 😁 </h2>  
@@ -33,6 +32,9 @@ struct Developer {
           <br/></div>
     </div>
     
+
+
+
 
 <!--
 **nansis4457/nansis4457** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
