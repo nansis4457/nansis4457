@@ -1,4 +1,10 @@
 
+
+<div id="header" align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXFmdTNyM21ubnF2MmMwcndlcm55ZHAwN3hqN2w5Z2F5cTFpcmJ3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qt73FYHjuXqAj241m8/giphy.gif" width="200"/>
+
+    
+</div>
 <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Hi~! This is My World 😁 </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> AI UX Researcher, Norton. </div> 
